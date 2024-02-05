@@ -1,0 +1,7 @@
+h3:nth-child(odd) {
+    color: rgb(148, 21, 21);
+}
+
+h3:nth-child(even) {
+    color: yellowgreen;
+}
