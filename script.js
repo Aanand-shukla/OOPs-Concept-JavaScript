@@ -72,3 +72,4 @@ class Triangle {
     return "Hello from a triangle";
   }
 }
+
